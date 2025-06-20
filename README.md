@@ -8,6 +8,7 @@ I'm a fullstack software engineer based in Poland.
 ### 🚀 Currently working on:
 - ##### 📆 [Timeaze.com](https://timeaze.com) - a software to help managers create work schedules automatically
 - ##### 💪 [GainScript](https://github.com/SaluSL/gainscript) - open-source app for personal coaches to create training plans and send it to their customers
+<img width="947" alt="{5C66AFC6-A846-4400-86C5-180EC0879718}" src="https://github.com/user-attachments/assets/5371d2d6-223b-4915-aa83-9d00129aa2fc" />
 
 ---
 
