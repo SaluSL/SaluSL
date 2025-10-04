@@ -7,6 +7,7 @@ I'm a fullstack software engineer based in Poland.
 
 ### 🚀 Currently working on:
 - ##### 📆 [Timeaze.com](https://timeaze.com) - a software to help managers create work schedules automatically
+- ##### :bookmark_tabs: [jsontex](https://github.com/SaluSL/jsontex) - a tool to compile LaTeX templates with placeholders and loops
 - ##### 🔎 [go2person](https://github.com/SaluSL/go2person) - a software to help you find the right person in your organization
 - ##### 💪 [GainScript](https://github.com/SaluSL/gainscript) - open-source app for personal coaches to create training plans and send it to their customers
 <img width="947" alt="{1741BEBF-3E1B-4BEF-8FA2-A7E48774BA00}" src="https://github.com/user-attachments/assets/6e7c8d5c-524f-4e89-935a-16dff3d8b879" />
